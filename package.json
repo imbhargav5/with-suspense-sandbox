@@ -1,0 +1,28 @@
+{
+  "name": "todos-to-suspense",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "async-react-future": "0.0.11",
+    "react": "canary",
+    "react-cache": "canary",
+    "react-dom": "canary",
+    "react-scripts": "2.0.3",
+    "waait": "1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
